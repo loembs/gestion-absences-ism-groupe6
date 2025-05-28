@@ -1,0 +1,14 @@
+﻿# Java Spring
+/backend-spring/target/
+/backend-spring/.idea/
+/backend-spring/*.iml
+
+# Angular
+/frontend-angular/node_modules/
+/frontend-angular/dist/
+/frontend-angular/.angular/
+
+# Flutter
+/frontend-flutter/build/
+/frontend-flutter/.dart_tool/
+/frontend-flutter/.packages
