@@ -47,8 +47,8 @@ gestion-absences-ism/
 ### 🔁 1. Cloner le Dépôt
 
 ```bash
-git clone https://github.com/ton-user/gestion-absences-ism.git
-cd gestion-absences-ism
+git clone https://github.com/loembs/gestion-absences-ism-groupe6.git
+cd gestion-absences-ism-groupe6
 ````
 
 ---
