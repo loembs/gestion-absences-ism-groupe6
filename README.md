@@ -1,8 +1,4 @@
-Voici le contenu complet prêt à être collé dans ton fichier `README.md` à la racine du projet GitHub 👇
 
----
-
-```markdown
 # 🎓 Gestion et Suivi des Absences à ISM
 
 ## 👨‍🏫 Projet Encadré – Équipe ISM
